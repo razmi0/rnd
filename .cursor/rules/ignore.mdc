@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+
+- ignore linter error or warnings in markdown files
