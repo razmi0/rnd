@@ -422,7 +422,7 @@ const encodedState = btoa(JSON.stringify({
 const decodedState = JSON.parse(atob(encodedState));
 ```
 
-## Event Contracts
+## Event **Contracts
 
 ### Create Bookmark
 
